@@ -1,6 +1,6 @@
 site_id = "gt"
 title = "Golden Idea Theme"
-baseurl = "https://golden-idea.gitlab.io"
+baseurl = "https://golden-idea.github.io"
 copyright = "Copyright 2018, GoAndMake.app"
 ghdata_provider = "github"
 ghdata_repo_owner = "themedata"
@@ -65,9 +65,9 @@ mainsections = [
 primary_hue = 353.0
 saturation = 35.0
 skip_cover_nav = false
-gh_provider = "gitlab"
+gh_provider = "github"
 gh_repo_owner = "golden-idea"
-gh_repo_name = "golden-idea.gitlab.io"
+gh_repo_name = "golden-idea.github.io"
 gh_repo_image = [
   "images/avatar-brown.jpg",
   "images/avatar-chocalate.jpg",
